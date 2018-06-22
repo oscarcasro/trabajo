@@ -1,0 +1,27 @@
+{
+    "name": "trabajo",
+    "authors": [
+      "oscarcasro <oscar.castro@alumno.uttehuacan.edu.mx>",
+      "oscarcasro <oscar.castro@alumno.uttehuacan.edu.mx>",
+      "oscarcasro <oscar.castro@alumno.uttehuacan.edu.mx>",
+      "oscarcasro <oscar.castro@alumno.uttehuacan.edu.mx>"
+    ],
+    "description": "home",
+    "main": "index.html",
+    "license": "MIT",
+    "homepage": "",
+    "private": true,
+    "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components",
+      "test",
+      "tests"
+    ],
+    "dependencies": {
+      "bootstrap": "^4.1.1",
+      "fontawesome": "^5.0.12",
+      "jquery": "^3.3.1",
+      "hammerjs": "^2.0.8"
+    }
+  }
